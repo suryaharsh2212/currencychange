@@ -26,7 +26,7 @@ function Input({
                   disabled={amountdisable}
                   value={amount}
                   onChange={(e)=>onamountchange && onamountchange(Number(e.target.value))}
-                  className='border rounded-lg'
+                  className='border rounded-lg p-3'
                 
                 />
             </div>
