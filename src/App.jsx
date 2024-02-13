@@ -20,12 +20,6 @@ function App() {
     setamount(convertedamount);
     setconvertedamount(amount);
   }
-  
-
-
-  
-
-
   return (
     <>
     <div className='flex flex-wrap justify-center items-center flex-column h-screen w-screen '>
